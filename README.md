@@ -1,5 +1,6 @@
 # toolhut
 toolhut.cn issue
+https://www.toolhut.cn
 
 ## 大家对 toolhut.cn 使用有任何问题，可以在这提 issue
 有问题欢迎提出，使用体验。
